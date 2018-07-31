@@ -1,4 +1,4 @@
-int led = 9;           // the pin that the LED is attached to
+rnt led = 9;           // the pin that the LED is attached to
 int brightness = 0;    // how bright the LED is
 int fadeAmount = 5;    // how many points to fade the LED by
 
@@ -23,3 +23,4 @@ void loop()  {
   // wait for 30 milliseconds to see the dimming effect    
   delay(30);                            
 }
+test++ 
